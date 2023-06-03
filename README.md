@@ -12,6 +12,8 @@ As none can stop the natural calamities from occurring which lead to a massive d
 - 4S Li-ion,9V Battery
 - LED
 - Switch
+## Construction
+
 ## Construction and Controlling
 - The main part of our robot i.e PIR sensor is connected to arduino Uno. 
 - The robotic car has 4 motors connected to motor driver which is controlled by the arduino Uno.
