@@ -13,7 +13,14 @@ As none can stop the natural calamities from occurring which lead to a massive d
 - LED
 - Switch
 ## Construction
-
+**Top View**
+![Top view](https://github.com/TaniyaTarannum/Human-Detection-Robot/assets/121234049/ce7d999c-e961-4176-8a7d-24499c3660bf)
+**Side View**
+![Side view](https://github.com/TaniyaTarannum/Human-Detection-Robot/assets/121234049/a7ff4dee-b9d8-456f-b182-e35eefc6ce04)
+**Back View**
+![Back view](https://github.com/TaniyaTarannum/Human-Detection-Robot/assets/121234049/68533e56-1402-49e2-8b31-a01ac4681a8e)
+**Front View**
+![Front view](https://github.com/TaniyaTarannum/Human-Detection-Robot/assets/121234049/86a03741-c194-49e6-bb87-a090f92a7db8)
 ## Construction and Controlling
 - The main part of our robot i.e PIR sensor is connected to arduino Uno. 
 - The robotic car has 4 motors connected to motor driver which is controlled by the arduino Uno.
@@ -35,6 +42,11 @@ The robot has a PIR sensor which senses the presence of human and triggers the g
 |Battery holder|60|
 | DC-DC converter|75|
 |Jumpers|125|
+## Testing
+![testing](https://github.com/TaniyaTarannum/Human-Detection-Robot/assets/121234049/1d0f621a-f733-4957-bd8b-94f8a795cd82)
+## Output
+![gps image](https://github.com/TaniyaTarannum/Human-Detection-Robot/assets/121234049/8a15924b-1158-47de-a65b-531824b2b934)
+![output table](https://github.com/TaniyaTarannum/Human-Detection-Robot/assets/121234049/74f5cee3-1801-46d6-9b68-8dc9c7e2260c)
 ## Difficulties Faced
 - Difficulty in gathering components as workshop was not accessible. Hence assembling the hardware was a tedious task.
 - Simulation of wifi and gps modules couldn’t be achieved. So the code was tested only after assembling the robot.
